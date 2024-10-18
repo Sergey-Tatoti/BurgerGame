@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\managers\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\game\\ui\\gamemanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\ui\\gamemanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\game\\gamecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\unity\\burgergame\\assets\\scripts\\game\\ui\\tutorialmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\ui\\tutorialmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\game\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\game\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\game\\ui\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\ui\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\assets\\scripts\\managers\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3057E01B-423E-D0C4-8175-DF0947574BC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TutorialMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\TutorialMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\UI\\TutorialMenu.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\TutorialMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\UI\\TutorialMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:53:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCounter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\GameCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameCounter.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\GameCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GameCounter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:42:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\EndMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\UI\\EndMenu.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\EndMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\UI\\EndMenu.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:09:46.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\UI\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\UI\\PauseMenu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:03:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Managers\\MainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MainManager.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Managers\\MainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MainManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:41:36.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManagerUI.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\GameManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\UI\\GameManagerUI.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\UI\\GameManagerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\UI\\GameManagerUI.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:18:14.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePlayManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Managers\\GamePlayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GamePlayManager.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Managers\\GamePlayManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GamePlayManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwEkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:51:13.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\FoodSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\FoodSpawner.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Unity\\BurgerGame\\Assets\\Scripts\\Game\\FoodSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\FoodSpawner.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:38:29.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
